@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * This is for the icons.
  * @author ifeka
- *
+ *This is for me!
  */
 @SpringBootApplication
 public class DemoApplication {
